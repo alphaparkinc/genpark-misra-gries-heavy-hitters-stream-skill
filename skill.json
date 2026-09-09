@@ -1,0 +1,13 @@
+{
+  "name": "genpark-misra-gries-heavy-hitters-stream-skill",
+  "version": "1.0.0",
+  "description": "Misra-Gries frequency estimation algorithm identifying top-K frequent elements (heavy hitters) in high-velocity streaming data.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "misra-gries",
+    "heavy-hitters",
+    "frequent-items",
+    "streaming-analytics"
+  ]
+}
